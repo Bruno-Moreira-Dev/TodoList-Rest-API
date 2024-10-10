@@ -1,7 +1,7 @@
 # TODO List
 Java Restful API used to create a TODO List
 
-### Class diagram
+## Class diagram
 
 ```mermaid
 classDiagram
